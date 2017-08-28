@@ -8,6 +8,7 @@
   "files": [
     "index.js",
     "index.es5.js",
+    "css",
     "docs",
     "dist",
     "src",
